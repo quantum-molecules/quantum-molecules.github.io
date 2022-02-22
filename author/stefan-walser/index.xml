@@ -5,12 +5,20 @@
     <link>/author/stefan-walser/</link>
       <atom:link href="/author/stefan-walser/index.xml" rel="self" type="application/rss+xml" />
     <description>Stefan Walser</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Feb 2022 08:42:51 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
       <title>Stefan Walser</title>
       <link>/author/stefan-walser/</link>
     </image>
+    
+    <item>
+      <title>Towards ultrafast single photon spectroscopy with trapped molecular ions</title>
+      <link>/publication/poster_frias/</link>
+      <pubDate>Mon, 21 Feb 2022 08:42:51 +0100</pubDate>
+      <guid>/publication/poster_frias/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

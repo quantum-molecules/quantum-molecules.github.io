@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Feb 2022 08:42:51 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>

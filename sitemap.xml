@@ -3,7 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2022-02-21T08:42:51+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
+    <lastmod>2022-02-21T08:42:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/philipp-schindler/</loc>
+    <lastmod>2022-02-21T08:42:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-02-21T08:42:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2022-02-21T08:42:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-02-21T08:42:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/stefan-walser/</loc>
+    <lastmod>2022-02-21T08:42:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/poster_frias/</loc>
+    <lastmod>2022-02-21T08:42:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/verena-podlesnic/</loc>
+    <lastmod>2022-02-21T08:42:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/zhenlin-wu/</loc>
+    <lastmod>2022-02-21T08:42:51+01:00</lastmod>
   </url>
   
   <url>
@@ -16,18 +62,6 @@
   
   <url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
   </url>
   
   <url>
