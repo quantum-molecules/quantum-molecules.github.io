@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Verena Podlesnic | Quantum molecules</title>
-    <link>/author/verena-podlesnic/</link>
-      <atom:link href="/author/verena-podlesnic/index.xml" rel="self" type="application/rss+xml" />
-    <description>Verena Podlesnic</description>
+    <title>Brandon Furey | Quantum molecules</title>
+    <link>/author/brandon-furey/</link>
+      <atom:link href="/author/brandon-furey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brandon Furey</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
-      <title>Verena Podlesnic</title>
-      <link>/author/verena-podlesnic/</link>
+      <title>Brandon Furey</title>
+      <link>/author/brandon-furey/</link>
     </image>
     
   </channel>
