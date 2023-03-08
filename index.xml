@@ -5,12 +5,44 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Quantum molecules</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Feb 2022 08:42:51 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Mar 2023 08:42:51 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
       <title>Quantum molecules</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Laser systems for quantum logic with molecular ions</title>
+      <link>/publication/poster_dpg23_mu/</link>
+      <pubDate>Thu, 09 Mar 2023 08:42:51 +0100</pubDate>
+      <guid>/publication/poster_dpg23_mu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State-dependent force spectroscopy for trapped ions</title>
+      <link>/publication/poster_dpg23_walser/</link>
+      <pubDate>Thu, 09 Mar 2023 08:42:51 +0100</pubDate>
+      <guid>/publication/poster_dpg23_walser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards deterministic ionization and loading of molecules for quantum logic spectroscopy</title>
+      <link>/publication/poster_dpg23_nardi/</link>
+      <pubDate>Thu, 09 Mar 2023 08:42:51 +0100</pubDate>
+      <guid>/publication/poster_dpg23_nardi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards ultrafast spectrosopy with trapped molecular ions</title>
+      <link>/publication/poster_dpg23_wu/</link>
+      <pubDate>Thu, 09 Mar 2023 08:42:51 +0100</pubDate>
+      <guid>/publication/poster_dpg23_wu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards ultrafast single photon spectroscopy with trapped molecular ions</title>

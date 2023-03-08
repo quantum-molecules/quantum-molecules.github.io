@@ -1,91 +1,118 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2022-02-21T08:42:51+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
     <loc>/authors/</loc>
-    <lastmod>2022-02-21T08:42:51+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/author/brandon-mu/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/author/brandon-wu/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/author/guanqun-nardi/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/author/guanqun-schindler/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/author/guanqun-walser/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/publication/poster_dpg23_mu/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/author/mu/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/author/nardi/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/author/philipp/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/author/rene-mu/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/author/rene-schindler/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/author/rene-walser/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/publication/poster_dpg23_walser/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/author/stefan-furey/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/publication/poster_dpg23_nardi/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/publication/poster_dpg23_wu/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/author/walser/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/author/wu/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/author/zhenlin-mu/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/author/zhenlin-nardi/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
+    <loc>/author/zhenlin-walser/</loc>
+    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+  </url><url>
     <loc>/author/philipp-schindler/</loc>
     <lastmod>2022-02-21T08:42:51+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-02-21T08:42:51+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2022-02-21T08:42:51+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2022-02-21T08:42:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/stefan-walser/</loc>
     <lastmod>2022-02-21T08:42:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/poster_frias/</loc>
     <lastmod>2022-02-21T08:42:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/verena-podlesnic/</loc>
     <lastmod>2022-02-21T08:42:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/zhenlin-wu/</loc>
     <lastmod>2022-02-21T08:42:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/brandon-furey/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/philipp-schindler/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/author/rene-nardi/</loc>
+  </url><url>
     <loc>/author/stefan-walser/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/verena-podlesnic/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/zhenlin-wu/</loc>
   </url>
-  
 </urlset>

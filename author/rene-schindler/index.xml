@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rene; Schindler | Quantum molecules</title>
+    <link>/author/rene-schindler/</link>
+      <atom:link href="/author/rene-schindler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rene; Schindler</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Mar 2023 08:42:51 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <title>Rene; Schindler</title>
+      <link>/author/rene-schindler/</link>
+    </image>
+    
+    <item>
+      <title>Laser systems for quantum logic with molecular ions</title>
+      <link>/publication/poster_dpg23_mu/</link>
+      <pubDate>Thu, 09 Mar 2023 08:42:51 +0100</pubDate>
+      <guid>/publication/poster_dpg23_mu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards ultrafast spectrosopy with trapped molecular ions</title>
+      <link>/publication/poster_dpg23_wu/</link>
+      <pubDate>Thu, 09 Mar 2023 08:42:51 +0100</pubDate>
+      <guid>/publication/poster_dpg23_wu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

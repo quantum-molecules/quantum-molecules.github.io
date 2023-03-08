@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nardi | Quantum molecules</title>
+    <link>/author/nardi/</link>
+      <atom:link href="/author/nardi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nardi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Mar 2023 08:42:51 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <title>Nardi</title>
+      <link>/author/nardi/</link>
+    </image>
+    
+    <item>
+      <title>Towards deterministic ionization and loading of molecules for quantum logic spectroscopy</title>
+      <link>/publication/poster_dpg23_nardi/</link>
+      <pubDate>Thu, 09 Mar 2023 08:42:51 +0100</pubDate>
+      <guid>/publication/poster_dpg23_nardi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
