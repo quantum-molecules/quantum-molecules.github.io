@@ -2,117 +2,129 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/publication-type/article/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/authors/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/brandon-mu/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/author/brandon-j.-furey/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/brandon-wu/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/author/elyas-mattivi/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/guanqun-nardi/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/author/mariano-isaza-monsalve/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/guanqun-schindler/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/author/philipp-schindler/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/guanqun-walser/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/publication_types/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication/poster_dpg23_mu/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/publication/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/mu/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/nardi/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/author/rene-nardi/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/philipp/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/tag/source-themes/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/author/stefan-walser/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/publication/rot_qec/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/tags/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/rene-mu/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/author/zhenlin-wu/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/rene-schindler/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/author/guanqun-mu/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/rene-walser/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/author/micha%C5%82-tomza/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication/poster_dpg23_walser/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/publication/caoh/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/stefan-furey/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/author/piotr-gniewek/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication/poster_dpg23_nardi/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/author/verena-podlesnic/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication/poster_dpg23_wu/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/people/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/walser/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/publication-type/article-journal/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/wu/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/publication/njp_theory/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/zhenlin-mu/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/author/brandon-furey/</loc>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/zhenlin-nardi/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/categories/</loc>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/zhenlin-walser/</loc>
-    <lastmod>2023-03-09T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/author/elyas-mattivi/</loc>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/philipp-schindler/</loc>
-    <lastmod>2022-02-21T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/author/mariano-monsalve/</loc>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/stefan-walser/</loc>
-    <lastmod>2022-02-21T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/author/philipp-schindler/</loc>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication/poster_frias/</loc>
-    <lastmod>2022-02-21T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/post/</loc>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/verena-podlesnic/</loc>
-    <lastmod>2022-02-21T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/talk/</loc>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/zhenlin-wu/</loc>
-    <lastmod>2022-02-21T08:42:51+01:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/author/rene-nardi/</loc>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/brandon-furey/</loc>
+    <loc>https://www.quantum-molecules.eu/author/stefan-walser/</loc>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://www.quantum-molecules.eu/author/verena-podlesnic/</loc>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/philipp-schindler/</loc>
-  </url><url>
-    <loc>/post/</loc>
-  </url><url>
-    <loc>/talk/</loc>
-  </url><url>
-    <loc>/author/rene-nardi/</loc>
-  </url><url>
-    <loc>/author/stefan-walser/</loc>
-  </url><url>
-    <loc>/tags/</loc>
-  </url><url>
-    <loc>/author/verena-podlesnic/</loc>
-  </url><url>
-    <loc>/author/zhenlin-wu/</loc>
+    <loc>https://www.quantum-molecules.eu/author/zhenlin-wu/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>

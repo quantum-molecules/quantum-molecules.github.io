@@ -2,15 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stefan Walser | Quantum molecules</title>
-    <link>/author/stefan-walser/</link>
-      <atom:link href="/author/stefan-walser/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.quantum-molecules.eu/author/stefan-walser/</link>
+      <atom:link href="https://www.quantum-molecules.eu/author/stefan-walser/index.xml" rel="self" type="application/rss+xml" />
     <description>Stefan Walser</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.quantum-molecules.eu/author/stefan-walser/avatar_hu3f0e330ff4790b5c468a25fa465fb71f_14810_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Stefan Walser</title>
-      <link>/author/stefan-walser/</link>
+      <link>https://www.quantum-molecules.eu/author/stefan-walser/</link>
     </image>
+    
+    <item>
+      <title>Brandon Furey</title>
+      <link>https://www.quantum-molecules.eu/author/brandon-furey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.quantum-molecules.eu/author/brandon-furey/</guid>
+      <description>&lt;p&gt;Brandon completed his Ph.D. in physics in Prof. Mike Downer’s group at the University of Texas at Austin in Texas, USA, where he studied two-photon absorption spectroscopy and anisotropy in bulk semiconductors and silicon quantum dots using ultrafast laser systems. He is joining the QCosmo team to identify, analyze, and demonstrate efficient implementations of quantum error correction with single trapped molecules using Raman frequency comb spectroscopy and other methods.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stefan Walser</title>
+      <link>https://www.quantum-molecules.eu/author/stefan-walser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.quantum-molecules.eu/author/stefan-walser/</guid>
+      <description>&lt;p&gt;I did my PhD at the TU Vienna in the group of Arno Rauschenbeutel. There I worked on a project showing theoretically end experimentally that the polarization state of light emitted by subwavelength emitters can give rise to a fundamental error in position measurements of the emitters.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

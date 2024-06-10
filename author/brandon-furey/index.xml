@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brandon Furey | Quantum molecules</title>
-    <link>/author/brandon-furey/</link>
-      <atom:link href="/author/brandon-furey/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.quantum-molecules.eu/author/brandon-furey/</link>
+      <atom:link href="https://www.quantum-molecules.eu/author/brandon-furey/index.xml" rel="self" type="application/rss+xml" />
     <description>Brandon Furey</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.quantum-molecules.eu/author/brandon-furey/avatar_hu1a677b2c2cc2748086d6c48b90f590af_65993_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Brandon Furey</title>
-      <link>/author/brandon-furey/</link>
+      <link>https://www.quantum-molecules.eu/author/brandon-furey/</link>
     </image>
     
   </channel>

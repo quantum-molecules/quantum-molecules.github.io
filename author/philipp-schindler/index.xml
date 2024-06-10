@@ -2,21 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philipp Schindler | Quantum molecules</title>
-    <link>/author/philipp-schindler/</link>
-      <atom:link href="/author/philipp-schindler/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.quantum-molecules.eu/author/philipp-schindler/</link>
+      <atom:link href="https://www.quantum-molecules.eu/author/philipp-schindler/index.xml" rel="self" type="application/rss+xml" />
     <description>Philipp Schindler</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Feb 2022 08:42:51 +0100</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.quantum-molecules.eu/media/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
       <title>Philipp Schindler</title>
-      <link>/author/philipp-schindler/</link>
+      <link>https://www.quantum-molecules.eu/author/philipp-schindler/</link>
     </image>
     
     <item>
-      <title>Towards ultrafast single photon spectroscopy with trapped molecular ions</title>
-      <link>/publication/poster_frias/</link>
-      <pubDate>Mon, 21 Feb 2022 08:42:51 +0100</pubDate>
-      <guid>/publication/poster_frias/</guid>
+      <title>Strategies for implementing quantum error correction in molecular rotation</title>
+      <link>https://www.quantum-molecules.eu/publication/rot_qec/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.quantum-molecules.eu/publication/rot_qec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photodissociation spectra of single trapped CaOH&#43; molecular ions</title>
+      <link>https://www.quantum-molecules.eu/publication/caoh/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.quantum-molecules.eu/publication/caoh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultrafast infrared spectroscopy with single molecular ions</title>
+      <link>https://www.quantum-molecules.eu/publication/njp_theory/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.quantum-molecules.eu/publication/njp_theory/</guid>
       <description></description>
     </item>
     
