@@ -5,12 +5,28 @@
     <link>https://www.quantum-molecules.eu/publication-type/article-journal/</link>
       <atom:link href="https://www.quantum-molecules.eu/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.quantum-molecules.eu/media/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.quantum-molecules.eu/media/icon_hu7221535500759281494.png</url>
       <title>Article-Journal</title>
       <link>https://www.quantum-molecules.eu/publication-type/article-journal/</link>
     </image>
+    
+    <item>
+      <title>Strategies for implementing quantum error correction in molecular rotation</title>
+      <link>https://www.quantum-molecules.eu/publication/rot_qec/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.quantum-molecules.eu/publication/rot_qec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photodissociation spectra of single trapped CaOH&#43; molecular ions</title>
+      <link>https://www.quantum-molecules.eu/publication/caoh/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.quantum-molecules.eu/publication/caoh/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ultrafast infrared spectroscopy with single molecular ions</title>

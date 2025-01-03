@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rene; Mu | Quantum molecules</title>
-    <link>/author/rene-mu/</link>
-      <atom:link href="/author/rene-mu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/rene-mu/</link>
+      <atom:link href="http://localhost:1313/author/rene-mu/index.xml" rel="self" type="application/rss+xml" />
     <description>Rene; Mu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Mar 2023 08:42:51 +0100</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Mar 2023 08:42:51 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu11734318148517933569.png</url>
       <title>Rene; Mu</title>
-      <link>/author/rene-mu/</link>
+      <link>http://localhost:1313/author/rene-mu/</link>
     </image>
     
     <item>
       <title>State-dependent force spectroscopy for trapped ions</title>
-      <link>/publication/poster_dpg23_walser/</link>
+      <link>http://localhost:1313/publication/poster_dpg23_walser/</link>
       <pubDate>Thu, 09 Mar 2023 08:42:51 +0100</pubDate>
-      <guid>/publication/poster_dpg23_walser/</guid>
+      <guid>http://localhost:1313/publication/poster_dpg23_walser/</guid>
       <description></description>
     </item>
     

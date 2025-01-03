@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Quantum molecules</title>
-    <link>https://www.quantum-molecules.eu/talk/</link>
-      <atom:link href="https://www.quantum-molecules.eu/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/talk/</link>
+      <atom:link href="http://localhost:1313/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://www.quantum-molecules.eu/media/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu11734318148517933569.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://www.quantum-molecules.eu/talk/</link>
+      <link>http://localhost:1313/talk/</link>
     </image>
     
   </channel>

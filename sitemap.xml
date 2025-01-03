@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.quantum-molecules.eu/publication-type/article/</loc>
+    <loc>https://www.quantum-molecules.eu/publication-type/article-journal/</loc>
     <lastmod>2024-05-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -31,10 +31,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.quantum-molecules.eu/publication/</loc>
-    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.quantum-molecules.eu/</loc>
     <lastmod>2024-05-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -82,16 +78,19 @@
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://www.quantum-molecules.eu/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://www.quantum-molecules.eu/people/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.quantum-molecules.eu/publication-type/article-journal/</loc>
+    <loc>https://www.quantum-molecules.eu/publication/njp_theory/</loc>
     <lastmod>2019-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.quantum-molecules.eu/publication/njp_theory/</loc>
-    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+    <loc>https://www.quantum-molecules.eu/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.quantum-molecules.eu/author/brandon-furey/</loc>
@@ -107,12 +106,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.quantum-molecules.eu/author/philipp-schindler/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.quantum-molecules.eu/post/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.quantum-molecules.eu/talk/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.quantum-molecules.eu/author/rene-nardi/</loc>
