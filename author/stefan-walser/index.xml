@@ -30,3 +30,17 @@
     
   </channel>
 </rss>
+ription>
+    </item>
+    
+    <item>
+      <title>Stefan Walser</title>
+      <link>https://www.quantum-molecules.eu/author/stefan-walser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.quantum-molecules.eu/author/stefan-walser/</guid>
+      <description>&lt;p&gt;I did my PhD at the TU Vienna in the group of Arno Rauschenbeutel. There I worked on a project showing theoretically end experimentally that the polarization state of light emitted by subwavelength emitters can give rise to a fundamental error in position measurements of the emitters.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
