@@ -5,29 +5,27 @@
     <link>https://www.quantum-molecules.eu/author/zhenlin-wu/</link>
       <atom:link href="https://www.quantum-molecules.eu/author/zhenlin-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhenlin Wu</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.quantum-molecules.eu/author/zhenlin-wu/avatar_hu2407401850456552951.jpg</url>
+      <url>https://www.quantum-molecules.eu/media/icon_hu7221535500759281494.png</url>
       <title>Zhenlin Wu</title>
       <link>https://www.quantum-molecules.eu/author/zhenlin-wu/</link>
     </image>
     
     <item>
-      <title>Verena Podlesnic</title>
-      <link>https://www.quantum-molecules.eu/author/verena-podlesnic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.quantum-molecules.eu/author/verena-podlesnic/</guid>
-      <description>&lt;p&gt;After finishing her undergraduate studies in Innsbruck, Verena joinded the AQTION team for her Master&amp;rsquo;s thesis. She was involved in setting up and characterizing a compact, robust quantum demonstrator with modular structure in two 19&amp;quot; racks. Now she joined our team as research assistant and helps us to build the lab and trap our first molecular ions.&lt;/p&gt;
-</description>
+      <title>Strategies for implementing quantum error correction in molecular rotation</title>
+      <link>https://www.quantum-molecules.eu/publication/rot_qec/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.quantum-molecules.eu/publication/rot_qec/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Zhenlin Wu</title>
-      <link>https://www.quantum-molecules.eu/author/zhenlin-wu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.quantum-molecules.eu/author/zhenlin-wu/</guid>
-      <description>&lt;p&gt;During his undergraduate study, Zhenlin joined the group of Prof. Yiheng Lin in the University of Science and Technology of China (USTC) where he learned about trapped ion quantum system. After his graduation he studied his master in the group of Prof. Rene Gerritsma at the University of Amsterdam, where he was involved in setting up the experiment for quantum simulation with 2D trapped ion crystals. He will be working on realizing quantum characterization and control of single trapped molecular ions in the QCosmo project during his PhD.&lt;/p&gt;
-</description>
+      <title>Photodissociation spectra of single trapped CaOH&#43; molecular ions</title>
+      <link>https://www.quantum-molecules.eu/publication/caoh/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.quantum-molecules.eu/publication/caoh/</guid>
+      <description></description>
     </item>
     
   </channel>
