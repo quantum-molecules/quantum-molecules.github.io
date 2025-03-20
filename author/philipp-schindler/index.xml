@@ -2,23 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philipp Schindler | Quantum molecules</title>
-    <link>https://www.quantum-molecules.eu/author/philipp-schindler/</link>
-      <atom:link href="https://www.quantum-molecules.eu/author/philipp-schindler/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/philipp-schindler/</link>
+      <atom:link href="http://localhost:1313/author/philipp-schindler/index.xml" rel="self" type="application/rss+xml" />
     <description>Philipp Schindler</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.quantum-molecules.eu/author/philipp-schindler/avatar_hu16816224843911122992.png</url>
+      <url>http://localhost:1313/media/icon_hu7221535500759281494.png</url>
       <title>Philipp Schindler</title>
-      <link>https://www.quantum-molecules.eu/author/philipp-schindler/</link>
+      <link>http://localhost:1313/author/philipp-schindler/</link>
     </image>
     
     <item>
-      <title>Philipp Schindler</title>
-      <link>https://www.quantum-molecules.eu/author/philipp-schindler/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.quantum-molecules.eu/author/philipp-schindler/</guid>
-      <description>&lt;p&gt;I am a researcher working on experimental quantum physics with trapped ions at the &lt;a href=&#34;http://www.uibk.ac.at&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Innsbruck&lt;/a&gt;. We are investigating a physical platform that might host a future quantum computer - &lt;a href=&#34;http://quantumoptics.at&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Trapped atomic ions&lt;/strong&gt;&lt;/a&gt;. The quantum register consists of a string of individual atoms that store information in their internal state. We confine ionized Calcium atoms and manipulate their state with laser pulses. I have received an ERC starting grant to apply these quantum computing techniques to &lt;strong&gt;polyatomic molecules&lt;/strong&gt;&lt;/p&gt;
-</description>
+      <title>Strategies for implementing quantum error correction in molecular rotation</title>
+      <link>http://localhost:1313/publication/rot_qec/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rot_qec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photodissociation spectra of single trapped CaOH&#43; molecular ions</title>
+      <link>http://localhost:1313/publication/caoh/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/caoh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultrafast infrared spectroscopy with single molecular ions</title>
+      <link>http://localhost:1313/publication/njp_theory/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/njp_theory/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
+/description>
     </item>
     
   </channel>

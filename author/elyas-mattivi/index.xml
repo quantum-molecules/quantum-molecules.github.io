@@ -2,31 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elyas Mattivi | Quantum molecules</title>
-    <link>https://www.quantum-molecules.eu/author/elyas-mattivi/</link>
-      <atom:link href="https://www.quantum-molecules.eu/author/elyas-mattivi/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/elyas-mattivi/</link>
+      <atom:link href="http://localhost:1313/author/elyas-mattivi/index.xml" rel="self" type="application/rss+xml" />
     <description>Elyas Mattivi</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://www.quantum-molecules.eu/media/icon_hu7221535500759281494.png</url>
+      <url>http://localhost:1313/author/elyas-mattivi/avatar_hu15527514444543573564.jpg</url>
       <title>Elyas Mattivi</title>
-      <link>https://www.quantum-molecules.eu/author/elyas-mattivi/</link>
+      <link>http://localhost:1313/author/elyas-mattivi/</link>
     </image>
-    
-    <item>
-      <title>Strategies for implementing quantum error correction in molecular rotation</title>
-      <link>https://www.quantum-molecules.eu/publication/rot_qec/</link>
-      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.quantum-molecules.eu/publication/rot_qec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photodissociation spectra of single trapped CaOH&#43; molecular ions</title>
-      <link>https://www.quantum-molecules.eu/publication/caoh/</link>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.quantum-molecules.eu/publication/caoh/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
