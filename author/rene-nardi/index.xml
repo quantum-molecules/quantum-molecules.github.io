@@ -5,32 +5,33 @@
     <link>https://www.quantum-molecules.eu/author/rene-nardi/</link>
       <atom:link href="https://www.quantum-molecules.eu/author/rene-nardi/index.xml" rel="self" type="application/rss+xml" />
     <description>René Nardi</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://www.quantum-molecules.eu/media/icon_hu7221535500759281494.png</url>
+      <url>https://www.quantum-molecules.eu/author/rene-nardi/avatar_hu5817674997197351233.jpg</url>
       <title>René Nardi</title>
       <link>https://www.quantum-molecules.eu/author/rene-nardi/</link>
     </image>
     
     <item>
-      <title>Strategies for implementing quantum error correction in molecular rotation</title>
-      <link>https://www.quantum-molecules.eu/publication/rot_qec/</link>
-      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.quantum-molecules.eu/publication/rot_qec/</guid>
+      <title>Andrea Turci</title>
+      <link>https://www.quantum-molecules.eu/author/andrea-turci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.quantum-molecules.eu/author/andrea-turci/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Photodissociation spectra of single trapped CaOH&#43; molecular ions</title>
-      <link>https://www.quantum-molecules.eu/publication/caoh/</link>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.quantum-molecules.eu/publication/caoh/</guid>
+      <title>Elyas Mattivi</title>
+      <link>https://www.quantum-molecules.eu/author/elyas-mattivi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.quantum-molecules.eu/author/elyas-mattivi/</guid>
       <description></description>
     </item>
     
-  </channel>
-</rss>
-Date>
+    <item>
+      <title>Mariano Monsalve</title>
+      <link>https://www.quantum-molecules.eu/author/mariano-monsalve/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.quantum-molecules.eu/author/mariano-monsalve/</guid>
       <description></description>
     </item>
