@@ -5,12 +5,20 @@
     <link>https://www.quantum-molecules.eu/publication-type/article-journal/</link>
       <atom:link href="https://www.quantum-molecules.eu/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.quantum-molecules.eu/media/icon_hu7221535500759281494.png</url>
       <title>Article-Journal</title>
       <link>https://www.quantum-molecules.eu/publication-type/article-journal/</link>
     </image>
+    
+    <item>
+      <title>Frequency comb Raman spectroscopy for quantum logic </title>
+      <link>https://www.quantum-molecules.eu/publication/elyas_msc/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.quantum-molecules.eu/publication/elyas_msc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Strategies for implementing quantum error correction in molecular rotation</title>
