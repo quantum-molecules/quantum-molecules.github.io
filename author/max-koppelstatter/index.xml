@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Max Koppelstätter | Quantum molecules</title>
+    <link>http://localhost:1313/author/max-koppelstatter/</link>
+      <atom:link href="http://localhost:1313/author/max-koppelstatter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Max Koppelstätter</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/max-koppelstatter/avatar_hu16722816548227878039.jpg</url>
+      <title>Max Koppelstätter</title>
+      <link>http://localhost:1313/author/max-koppelstatter/</link>
+    </image>
+    
+    <item>
+      <title>Max Koppelstätter</title>
+      <link>http://localhost:1313/author/max-koppelstatter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/max-koppelstatter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

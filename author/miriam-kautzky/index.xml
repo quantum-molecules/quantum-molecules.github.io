@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miriam Kautzky | Quantum molecules</title>
-    <link>https://www.quantum-molecules.eu/author/miriam-kautzky/</link>
-      <atom:link href="https://www.quantum-molecules.eu/author/miriam-kautzky/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/miriam-kautzky/</link>
+      <atom:link href="http://localhost:1313/author/miriam-kautzky/index.xml" rel="self" type="application/rss+xml" />
     <description>Miriam Kautzky</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://www.quantum-molecules.eu/author/miriam-kautzky/avatar_hu4390665285714662941.jpg</url>
+      <url>http://localhost:1313/author/miriam-kautzky/avatar_hu4390665285714662941.jpg</url>
       <title>Miriam Kautzky</title>
-      <link>https://www.quantum-molecules.eu/author/miriam-kautzky/</link>
+      <link>http://localhost:1313/author/miriam-kautzky/</link>
     </image>
     
   </channel>
