@@ -2,43 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stefan Walser | Quantum molecules</title>
-    <link>http://localhost:1313/author/stefan-walser/</link>
-      <atom:link href="http://localhost:1313/author/stefan-walser/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.quantum-molecules.eu/author/stefan-walser/</link>
+      <atom:link href="https://www.quantum-molecules.eu/author/stefan-walser/index.xml" rel="self" type="application/rss+xml" />
     <description>Stefan Walser</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/media/icon_hu7221535500759281494.png</url>
+      <url>https://www.quantum-molecules.eu/author/stefan-walser/avatar_hu12407080054728510303.jpg</url>
       <title>Stefan Walser</title>
-      <link>http://localhost:1313/author/stefan-walser/</link>
+      <link>https://www.quantum-molecules.eu/author/stefan-walser/</link>
     </image>
     
     <item>
-      <title>Strategies for implementing quantum error correction in molecular rotation</title>
-      <link>http://localhost:1313/publication/rot_qec/</link>
-      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rot_qec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photodissociation spectra of single trapped CaOH&#43; molecular ions</title>
-      <link>http://localhost:1313/publication/caoh/</link>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/caoh/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
-hods.&lt;/p&gt;
+      <title>Brandon Furey</title>
+      <link>https://www.quantum-molecules.eu/author/brandon-furey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.quantum-molecules.eu/author/brandon-furey/</guid>
+      <description>&lt;p&gt;Brandon completed his Ph.D. in physics in Prof. Mike Downer’s group at the University of Texas at Austin in Texas, USA, where he studied two-photon absorption spectroscopy and anisotropy in bulk semiconductors and silicon quantum dots using ultrafast laser systems. He is joining the QCosmo team to identify, analyze, and demonstrate efficient implementations of quantum error correction with single trapped molecules using Raman frequency comb spectroscopy and other methods.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Stefan Walser</title>
-      <link>http://localhost:1313/author/stefan-walser/</link>
+      <link>https://www.quantum-molecules.eu/author/stefan-walser/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/stefan-walser/</guid>
+      <guid>https://www.quantum-molecules.eu/author/stefan-walser/</guid>
       <description>&lt;p&gt;I did my PhD at the TU Vienna in the group of Arno Rauschenbeutel. There I worked on a project showing theoretically end experimentally that the polarization state of light emitted by subwavelength emitters can give rise to a fundamental error in position measurements of the emitters.&lt;/p&gt;
 </description>
     </item>
